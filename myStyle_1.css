@@ -1,0 +1,31 @@
+#signUp{
+	position: absolute;
+	left: 10px;
+	bottom: 10px;
+}
+#signUp ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	font-size: 20px;
+	
+}
+#signUp ul li{
+	display: inline;
+	width: 50px;
+    background-color: #555;
+}
+#signUp ul li a{
+	text-decoration: none;
+	color:white;
+}
+#signUp ul li a:hover{
+	background-color: red;
+}
+#welcomeUser{
+	position:absolute;
+	top:10px;
+	left:500px;
+	font-size:20px;
+}
+
